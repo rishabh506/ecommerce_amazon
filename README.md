@@ -3,7 +3,7 @@
 Welcome to my **first ever web project** – an **Amazon UI Clone** built using just **HTML** and **CSS**! 🎉  
 I created this project to practice and learn the basics of web development, and I'm excited to share it with you.
 
-🌐 **Live Demo**: [Click here to view the project](https://rishabh506.github.io/Amazon-Clone/)
+🌐 **Live Demo**: [Click here to view the project]((https://ecommerce-amazon-gamma.vercel.app/))
 
 ---
 
